@@ -9,3 +9,10 @@ The code is tested with Python 3.8.0, Matplotlib 3.7.1, Numpy 1.24.2, and Ipytho
 ## How to Run
 Download the Inverted Pendulum file and run using jupyter notebook or Google Colab.
 
+## Results
+
+https://github.com/Naveench7/Optimal-Control/assets/100085132/764bacf3-084a-4617-aefd-4b6baa1f637c
+
+
+
+
