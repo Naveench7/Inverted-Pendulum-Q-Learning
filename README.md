@@ -7,5 +7,5 @@ The goal of this project is to learn a policy for an inverted pendulum model to 
 The code is tested with Python 3.8.0, Matplotlib 3.7.1, Numpy 1.24.2, and Ipython 7.34.0.
 
 ## How to Run
-Download the .ipynb file and run.
+Download the Inverted Pendulum file and run using jupyter notebook or Google Colab.
 
