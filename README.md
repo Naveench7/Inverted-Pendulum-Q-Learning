@@ -11,7 +11,9 @@ Download the Inverted Pendulum file and run using jupyter notebook or Google Col
 
 ## Results
 
-https://github.com/Naveench7/Optimal-Control/assets/100085132/764bacf3-084a-4617-aefd-4b6baa1f637c
+                              https://github.com/Naveench7/Optimal-Control/assets/100085132/21e4089b-87d4-4981-9fe3-9825dfdd44a6
+
+
 
 
 
