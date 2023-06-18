@@ -11,19 +11,30 @@ Download the Inverted Pendulum file and run using jupyter notebook or Google Col
 
 ## Results
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Naveench7/Stability-and-maneuverability-of-a-Drone-using-LOQ-and-iLQR/assets/100085132/7d2efb8b-b71d-46f0-8ccb-a0e192db9b48" width="500" height="500">
+    </td>
+    <td>
+      <img src="https://github.com/Naveench7/Stability-and-maneuverability-of-a-Drone-using-LOQ-and-iLQR/assets/100085132/ce44ac5e-931c-48b0-9fb9-d568517335a6" width="500" height="500">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Naveench7/Stability-and-maneuverability-of-a-Drone-using-LOQ-and-iLQR/assets/100085132/804cdba1-9e9c-41f8-a28e-f64ae8df72a0" width="500" height="500">
+    </td>
+    <td>
+      <img src="https://github.com/Naveench7/Stability-and-maneuverability-of-a-Drone-using-LOQ-and-iLQR/assets/100085132/f20cc476-cd87-4a86-b6ce-ec44a681db9f" width="500" height="500">
+    </td>
+  </tr>
+</table>
 
 
 
-<div style="overflow: auto;">
-  <div style="float: left; margin-right: 20px;">
-  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/be0bb0d4-4edb-4d62-971a-b513f2ff80ea" alt="GIF" style="width: 400px; height: auto;">
-  
-  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/69d7ca18-a80c-4629-b1b0-ede0c2ebe058" alt="Image 1" style="width: 400px; height: auto; float: left; margin-left: 50px; margin-right: 20px;">
-  
-  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/a35e2b96-c1a5-4e5b-8b36-0df24bca90a2" alt="Image 2" style="width: 400px; height: auto; float: left; margin-right: 10px;">
-  
-  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/e104f175-b711-446d-bc1b-be40bbfe280c" alt="Image 3" style="width: 400px; height: auto; float: left; margin-right: 10px;">
-</div>
+
+
+
 
 
 
