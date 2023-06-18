@@ -1,4 +1,4 @@
-# Optimal-Control
+# Inverted Pendulum using Q Learning
 
 ## Overview
 The goal of this project is to learn a policy for an inverted pendulum model to make it do a swing-up motion. Beyond the task of inverting a pendulum, the goal is to also gain an understanding of how Q-learning works, its limitations, and its advantages.
