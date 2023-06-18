@@ -11,7 +11,40 @@ Download the Inverted Pendulum file and run using jupyter notebook or Google Col
 
 ## Results
 
-                              https://github.com/Naveench7/Optimal-Control/assets/100085132/21e4089b-87d4-4981-9fe3-9825dfdd44a6
+
+
+
+<div style="overflow: auto;">
+  <div style="float: left; margin-right: 20px;">
+  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/be0bb0d4-4edb-4d62-971a-b513f2ff80ea" alt="GIF" style="width: 400px; height: auto;">
+  
+  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/69d7ca18-a80c-4629-b1b0-ede0c2ebe058" alt="Image 1" style="width: 400px; height: auto; float: left; margin-left: 50px; margin-right: 20px;">
+  
+  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/a35e2b96-c1a5-4e5b-8b36-0df24bca90a2" alt="Image 2" style="width: 400px; height: auto; float: left; margin-right: 10px;">
+  
+  <img src="https://github.com/Naveench7/Optimal-Control/assets/100085132/e104f175-b711-446d-bc1b-be40bbfe280c" alt="Image 3" style="width: 400px; height: auto; float: left; margin-right: 10px;">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
